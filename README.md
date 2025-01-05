@@ -1,6 +1,6 @@
-CP1404 Assignment 2 – Songs To Learn 2.0 
+Songs To Learn 2.0 
 Task:
-Create a Graphical User Interface (GUI) program similar using Python 3 and the Kivy toolkit, as described in the following information and accompanying screencast. This assignment will help you build skills using classes and GUIs as well as giving you more practice using techniques like selection, repetition, exceptions, lists, file I/O and functions. 
+Create a Graphical User Interface (GUI) program using Python 3 and the Kivy toolkit, as described in the following information and accompanying screencast. This assignment will help you build skills using classes and GUIs as well as giving you more practice using techniques like selection, repetition, exceptions, lists, file I/O and functions. 
 
 
 <img width="435" alt="SongToLearn screenshot 1" src="https://user-images.githubusercontent.com/44990567/145338974-22aa1a23-587a-4c13-9a50-4356658e7591.png">
